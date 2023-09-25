@@ -69,7 +69,7 @@ Run smart contract test with `yarn hardhat:test`
 
 Visit our [docs](https://docs.scaffoldeth.io) to learn how to start building with Scaffold-ETH 2.
 
-To know more about its features, check out our [website](https://scaffoldeth.io).
+To know more about its features, check out our gitbook [website](https://scaffoldeth.io).
 
 ## Contributing to Scaffold-ETH 2
 
